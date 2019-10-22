@@ -1,8 +1,8 @@
-# hzb-v20-evr-02-cmd
+# bm-adc-cmd
 
-Startup scripts for hzb-v20-evr-02
+Startup scripts for bm-adc
 
-## st.hzb-v20-evr-02.cmd
+## st.bm-adc.cmd
 
 EPICS startup script
 
