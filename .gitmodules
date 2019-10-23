@@ -1,0 +1,3 @@
+[submodule "bm-adc-opi"]
+	path = bm-adc-opi
+	url = https://github.com/icshwi/bm-adc-opi.git
