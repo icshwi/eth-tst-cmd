@@ -41,4 +41,7 @@ iocshLoad("$(TMP)/detint.cmd", "DEV1=RO1, DEV2=RO2, COM1=COM1, COM2=COM2, SYS=$(
 
 iocInit()
 
- 
+dbpf BM-ADC-RO1:MAC-SRC-SP.PROC 1
+dbpf BM-ADC-RO1:MAC-DST-SP.PROC 1
+dbpf BM-ADC-RO2:MAC-SRC-SP.PROC 1
+dbpf BM-ADC-RO2:MAC-DST-SP.PROC 1 
